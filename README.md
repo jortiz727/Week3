@@ -1,0 +1,4 @@
+
+An array is a fixed-size data structure where elements are stored in a continuous memory block. Once an array is created, its size cannot be changed. Array values are accessed using square brackets ([]). So, You can directly modify array values by assigning new values to specific index number. In an array you can store primitive data types, like int and char, and objects.
+An ArrayList is a list that is able to grow or shrink based on the number of values you need, unlike arrays. ArrayList provides methods (such as get(), add(), remove(), etc.) to access and modify its values. In an arraylist you can only store objects, and wrapper classes, to store primative data types.
+ArrayLists are more versatile due to their dynamic nature, but arrays are still useful for fixed-size scenarios. If you need flexibility, go for ArrayLists; if you know the exact size in advance, arrays might be more efficient for your projects.
